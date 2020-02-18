@@ -4,7 +4,6 @@
 * [Pivoting and Tunneling](pivoting-and-tunneling.md)
 * [Untitled](untitled/README.md)
   * [Untitled](untitled/untitled.md)
-* [88](88.md)
 
 ## Web
 
