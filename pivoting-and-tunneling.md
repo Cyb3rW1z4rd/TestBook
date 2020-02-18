@@ -15,9 +15,11 @@ Speeding up Proxychains with Nmap / Xargs [https://www.hackwhackandsmack.com/?p=
 
 ## SSH Local Port Forwarding
 
-![youtube](https://www.youtube.com/watch?v=JIsfErEbWGg)
 
-use in cases where your on a victim box and it has a port open only local ie; 127.0.0.1:3306 so to make it available remotely we can port forward to this port from say 3305 with ssh
+
+![YouTube](https://www.youtube.com/watch?v=JIsfErEbWGg)
+
+Use in cases where your on a victim box and it has a port open only local ie; 127.0.0.1:3306 so to make it available remotely we can port forward to this port from say 3305 with ssh
 
 All the traffic sent to localhost's port 3305 will be forwarded to remote host on port 3306 through the tunnel.\
 
@@ -26,7 +28,7 @@ All the traffic sent to localhost's port 3305 will be forwarded to remote host o
 
 **To connect to your home PC through mysql \(port 3306\) in a secure way you will just use:**
 
-mysql localhost:3305
+`mysql localhost:3305`
 
 [https://unix.stackexchange.com/questions/10428/simple-way-to-create-a-tunnel-from-one-local-port-to-another](https://unix.stackexchange.com/questions/10428/simple-way-to-create-a-tunnel-from-one-local-port-to-another)
 
