@@ -1,7 +1,7 @@
 # Table of contents
 
 * [CyberBook](README.md)
-* [web](web/README.md)
+* [Web](web/README.md)
   * [Untitled](web/untitled-1.md)
   * [Untitled](web/untitled.md)
 * [Untitled](untitled/README.md)
