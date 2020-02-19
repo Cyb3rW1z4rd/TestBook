@@ -12,4 +12,6 @@
   * [test](folder/test.md)
 * [index](note.md)
 * [Welcome-to-Joplin](welcome-to-joplin.md)
+* [index](untitled-1.md)
+* [index](untitled-2.md)
 
